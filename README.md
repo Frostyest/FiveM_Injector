@@ -1,17 +1,17 @@
 # *FiveM free cheat - WIP (Experimental)*
 
-## This cheat aims to exploit SQL vulnerabilities to grant admin access, give money, and set job in FiveM. The following features are included:
+This cheat aims to exploit SQL vulnerabilities to grant admin access, give money, and set job in FiveM. The following features are included:
 
-Grant admin access: allows you to become an administrator on the server
-Give money: gives you unlimited in-game currency
-Set player job: allows you to set your job in the game
-... and more
+* Grant admin access: allows you to become an administrator on the server
+* Give money: gives you unlimited in-game currency
+* Set player job: allows you to set your job in the game
+* ... and more
 
-## In addition, the cheat includes the following features that can be used without exploiting SQL vulnerabilities:
+In addition, the cheat includes the following features that can be used without exploiting SQL vulnerabilities:
 
-Give weapons: gives you access to all weapons in the game
-God mode: makes you invincible in the game
-... and more
+* Give weapons: gives you access to all weapons in the game
+* God mode: makes you invincible in the game
+* ... and more
 
 ## Usage
 
