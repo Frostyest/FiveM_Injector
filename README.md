@@ -15,10 +15,10 @@ In addition, the cheat includes the following features that can be used without 
 
 ## Usage
 
-Download the DLL in Release.
-Use Extreme Injector or Process Hacker
-Inject the DLL
-Enjoy !
+* Download the DLL in Release.
+* Use Extreme Injector or Process Hacker.
+* Inject the DLL.
+* Enjoy !
 
 ## Warning!
 
